@@ -1,4 +1,4 @@
-# Denise-Bio-Readme
+# Welcome!
 
 Hi! My name is Denise, and I’m a student who is currently participating in a virtual summer electrical engineering program where I’m learning skills such as problem-solving, research, and 3d modeling. 
 This experience has really helped me see how engineering is present in many disciplines and used to create effective solutions. 
